@@ -1,0 +1,7 @@
+install.packages("dplyr")
+install.packages("tidyr")
+install.packages("here")
+install.packages("ggparty")
+install.packages("partykit")
+install.packages("caret")
+install.packages("DescTools")
