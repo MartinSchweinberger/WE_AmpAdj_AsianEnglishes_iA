@@ -29,3 +29,4 @@ point binder to the repository you have created from this template, probably usi
 and providing the name of the notebook you want to be launched by default (if desired).
 8. Place the generated binder link (ideally with the Binder icon) in the readme.
 
+Link to interactive notebook: https://mybinder.org/v2/gh/MartinSchweinberger/WE_AmpAdj_AsianEnglishes_iA/main?labpath=AmpHKPhiE_Part02_cb.ipynb
